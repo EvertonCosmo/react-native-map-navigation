@@ -42,6 +42,7 @@
   "dependencies": {
     "geolib": "^2.0.24",
     "prop-types": "^15.6.2",
+    "react-native-geolocation-service": "^4.0.0",
     "react-native-optiongroup": "^0.0.7"
   },
   "rnpm": {
